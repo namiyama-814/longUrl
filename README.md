@@ -1,0 +1,2 @@
+# longUrl
+URLながながツール
